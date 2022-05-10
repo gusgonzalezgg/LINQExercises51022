@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.exe
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.deps.json
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\bin\Debug\net5.0\VideoGameList.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\refint\VideoGameList.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\VideoGameList.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\VideoGameList\VideoGameList\obj\Debug\net5.0\ref\VideoGameList.dll
